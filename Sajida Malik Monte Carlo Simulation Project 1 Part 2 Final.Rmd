@@ -1,5 +1,5 @@
 ---
-title: "Monte Carlo Simulation Project 1 Final Part"
+title: "Monte Carlo Simulation Project 1 Final "
 author: "Sajida Malik"
 date: "2023-10-20"
 output:
