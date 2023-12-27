@@ -1,7 +1,7 @@
 ---
 title: "Monte Carlo Simulation Project 1 Final Part"
 author: "Sajida Malik"
-date: "2023-11-21"
+date: "2023-10-20"
 output:
   word_document: default
   html_document: default
